@@ -1,0 +1,6 @@
+framework module Pods_crafterCart {
+  umbrella header "Pods-crafterCart-umbrella.h"
+
+  export *
+  module * { export * }
+}

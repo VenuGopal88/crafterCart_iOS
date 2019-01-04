@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>659QZK29AL.com.learning.crafterCart</string>
+	<key>com.apple.developer.team-identifier</key>
+	<string>659QZK29AL</string>
+	<key>get-task-allow</key>
+	<true/>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>659QZK29AL.com.learning.crafterCart</string>
+	</array>
+</dict>
+</plist>
